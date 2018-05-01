@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Thành viên của TWICE
+title: TWICE Members
 subtitle: Câu trả lời cho non-fan hoặc Once mới.
 tags: [members, nayeon, jungyeon, sana, momo, jihyo, mina, dahuyn, chaeyoung, tzuyu]
 bigimg: 
   - "/img/twice-tt.jpg" : "TWICE TT"
   - "/img/twice-signal.jpg" : "TWICE Signal"
+image: /img/twice.jpeg
 ---
 
-Nếu bạn thắc mắc trong Twice có bao nhiêu thành viên? và các thành viên có vai trò gì trong nhóm? thì bài viết này sẽ trả lời cho bạn! Chúc các bạn vui vẻ :)
+Nếu bạn thắc mắc trong Twice có bao nhiêu thành viên? và các thành viên có Vai trò gì trong nhóm? thì bài viết này sẽ trả lời cho bạn! Chúc các bạn vui vẻ :)
 
-**TWICE hiện bây giờ là có 9 thành viên! Mình sẽ sắp xếp theo thứ tự từ lớn đến bé. Tức là từ Unnie đến Maknae.**
+**TWICE hiện bây giờ là có 9 thành viên! Mình sẽ sắp xếp theo thứ tự từ lớn đến bé.** (Tức là từ Unnie đến Maknae.)
 
 **1. Nayeon** (Fake maknae người có răng thỏ)
 ![Nayeon](http://cfile30.uf.tistory.com/original/99C935355AE56327078E1E)
