@@ -2,6 +2,9 @@
 layout: page
 title: About me
 subtitle: Là một fan-girl của 9 cục bông TWICE!
+bigimg: 
+  - "/img/twice-tt.jpg" : "TWICE TT"
+  - "/img/twice-signal.jpg" : "TWICE Signal"
 ---
 
 Xin chào các Once, Non-fan tui tên là Ngân. Là fan-girl của 9 cục bông. Quần thì ngày nào cũng đội :)) sau đây tui sẽ chia sẽ cho các bồ vài chương trình của Twice để các bạn đội quần với tui:

@@ -3,6 +3,9 @@ layout: post
 title: Thành viên của TWICE
 subtitle: Câu trả lời cho non-fan hoặc Once mới.
 tags: [members, nayeon, jungyeon, sana, momo, jihyo, mina, dahuyn, chaeyoung, tzuyu]
+bigimg: 
+  - "/img/twice-tt.jpg" : "TWICE TT"
+  - "/img/twice-signal.jpg" : "TWICE Signal"
 ---
 
 Nếu bạn thắc mắc trong Twice có bao nhiêu thành viên? và các thành viên có vai trò gì trong nhóm? thì bài viết này sẽ trả lời cho bạn! Chúc các bạn vui vẻ :)
