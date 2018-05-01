@@ -6,6 +6,7 @@ tags: [members, nayeon, jungyeon, sana, momo, jihyo, mina, dahuyn, chaeyoung, tz
 bigimg: 
   - "/img/twice-tt.jpg" : "TWICE TT"
   - "/img/twice-signal.jpg" : "TWICE Signal"
+comments: true
 ---
 
 Nếu bạn thắc mắc trong Twice có bao nhiêu thành viên? và các thành viên có Vai trò gì trong nhóm? thì bài viết này sẽ trả lời cho bạn! Chúc các bạn vui vẻ :)
