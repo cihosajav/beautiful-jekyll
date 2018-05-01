@@ -28,7 +28,6 @@ navbar-links:
     - Facebook: "https://www.facebook.com/nganlemm"
     - Youtube: "https://www.youtube.com/channel/UC9c3MF8JlbESr6mmp4B-3xQ"
     - Mail: "mailto:lamngan1250@gmail.com"
-  Author's name: "Tzuchoco25"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

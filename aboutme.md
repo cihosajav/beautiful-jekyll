@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Là một fan-girl của 9 cục bông TWICE!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Xin chào các Once, Non-fan tui tên là Ngân. Là fan-girl của 9 cục bông. Quần thì ngày nào cũng đội :)) sau đây tui sẽ chia sẽ cho các bồ vài chương trình của Twice để các bạn đội quần với tui:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- **Twice TV** (Seasons 1,2,3,4,5,6, 2018)
+- **Twice Private Life**
+- **Running man** (Ep: 302, 328, 399)
+- **Yang and Nam Show** (EP: 2)
+- **Weekly Idol** (EP: 228, 230, 249, 261, 274, 303, 304, 327)
+- **K-rush**
+- **Tobe continued ...**
 
-What else do you need?
+### Liên hệ
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Facebook: [Lam Ngan](https://www.facebook.com/nganlemm)
+Youtube: [Tzuyu Yoda](https://www.youtube.com/channel/UC9c3MF8JlbESr6mmp4B-3xQ?view_as=subscriber)
+Email: [lamngan1250@gmail.com](mailto:lamngan1250@gmail.com)
+---
+Chúc các bạn vui vẻ! Hãy yêu thương 9 cục bông của chúng tớ nhé? Anyeong~
