@@ -7,7 +7,6 @@ tags: [members, nayeon, jungyeon, sana, momo, jihyo, mina, dahuyn, chaeyoung, tz
 bigimg: 
   - "/img/twice-tt.jpg" : "TWICE TT"
   - "/img/twice-signal.jpg" : "TWICE Signal"
- comments: true
 =======
 tags:
   - members
