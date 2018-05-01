@@ -41,13 +41,13 @@ Nếu bạn thắc mắc trong Twice có bao nhiêu thành viên? và các thàn
 
 ## Đây là bảng vai trò của từng thành viên mình tổng hợp lại của mọi người thay gọi. Sẽ có vài cái không đúng.
 
-| Vocals | Rap | Dance | | Visual |
-| :------ |:--- | :--- | | :--- |
-| Jihyo | Chaeyoung | Momo | | Tzuyu |
-| Jungyeon | Dahyun | Tzuyu | | Nayeon |
-| Nayeon | X | Chaeyoung | | Sana |
-| Mina | X | Dahyun | | Mina |
-| Sana | X | X | | X |
+| Vocals | Rap | Dance | Visual |
+| :------ |:--- | :--- | :--- |
+| Jihyo | Chaeyoung | Momo | Tzuyu |
+| Jungyeon | Dahyun | Tzuyu | Nayeon |
+| Nayeon | X | Chaeyoung | Sana |
+| Mina | X | Dahyun | Mina |
+| Sana | X | X | X |
 
 {: .box-note}
 **Note:** Bài viết dành cho non-fan hoặc Once mới. nếu ai biết rồi thì thôi!
