@@ -16,8 +16,9 @@ Xin chào các Once, Non-fan tui tên là Ngân. Là fan-girl của 9 cục bôn
 
 ### Liên hệ
 
-Facebook: [Lam Ngan](https://www.facebook.com/nganlemm)
-Youtube: [Tzuyu Yoda](https://www.youtube.com/channel/UC9c3MF8JlbESr6mmp4B-3xQ?view_as=subscriber)
-Email: [lamngan1250@gmail.com](mailto:lamngan1250@gmail.com)
----
-Chúc các bạn vui vẻ! Hãy yêu thương 9 cục bông của chúng tớ nhé? Anyeong~
+- Facebook: [Lam Ngan](https://www.facebook.com/nganlemm)
+- Youtube: [Tzuyu Yoda](https://www.youtube.com/channel/UC9c3MF8JlbESr6mmp4B-3xQ)
+- Email: [lamngan1250@gmail.com](mailto:lamngan1250@gmail.com)
+
+{: .box-note}
+**Note:** Chúc các bạn vui vẻ! Hãy yêu thương 9 cục bông của chúng tớ nhé? Anyeong~
