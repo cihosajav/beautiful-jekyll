@@ -69,7 +69,6 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
   email: "lamngan1250@gmail.com"
   facebook: nganlemm
   github: cihosajav
@@ -158,6 +157,7 @@ defaults:
       path: "" # all files
     values:
       layout: "page"
+      comments: true
       show-avatar: true
 
 # Use tags index page and make tags on each post clickable
