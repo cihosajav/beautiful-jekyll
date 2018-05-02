@@ -23,5 +23,13 @@ Xin chào các Once, Non-fan tui tên là Ngân. Là fan-girl của 9 cục bôn
 - Youtube: [Tzuyu Yoda](https://www.youtube.com/channel/UC9c3MF8JlbESr6mmp4B-3xQ)
 - Email: [lamngan1250@gmail.com](mailto:lamngan1250@gmail.com)
 
+<form action="https://getsimpleform.com/messages?form_api_token=e767da6ba2dd29840693d712f9202cb4" method="post">
+  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+  <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
+  <!-- all your input fields here.... -->
+  <input type='text' name='test' />
+  <input type='submit' value='Test form' />
+</form>
+
 {: .box-note}
 **Note:** Chúc các bạn vui vẻ! Hãy yêu thương 9 cục bông của chúng tớ nhé? Anyeong~
